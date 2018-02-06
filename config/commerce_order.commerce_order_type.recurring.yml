@@ -1,0 +1,14 @@
+uuid: 69d0dcbd-c747-4886-a647-515b1f9f6941
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: DGzwY1Q5lWAj2I1aF07RFkR7XCtlq9qXWG5vWLmYOVA
+label: Recurring
+id: recurring
+workflow: order_recurring
+traits: {  }
+refresh_mode: customer
+refresh_frequency: 300
+sendReceipt: true
+receiptBcc: ''

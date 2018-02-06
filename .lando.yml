@@ -1,0 +1,7 @@
+name: causy
+recipe: pantheon
+config:
+  framework: drupal8
+  xdebug: true
+  site: causy
+  id: e9edc898-4101-44f6-b87c-9028a27421c6

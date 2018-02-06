@@ -1,0 +1,10 @@
+uuid: f572dea3-6b55-47b7-a28c-b38d640358ab
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: uXc7SNfdNF3TJ81MWGMvCjsKlNSElo6Cc0lTrhLSels
+id: online
+label: Online
+description: ''
+traits: {  }
